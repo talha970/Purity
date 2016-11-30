@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout app:background="0x7f0c001c" app:fitsSystemWindows="true" app:layout_width="-1" app:layout_height="-1">
+    <include layout="0x7f040023" />
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:gravity="11" android:orientation="1" android:id="0x7f0d00b2" android:visibility="2" android:layout_width="-1" android:layout_height="-1">
+        <ProgressBar android:id="0x7f0d00c9" android:layout_width="-2" android:layout_height="-2" style="?unknown_attr_ref: 1010077" />
+        <TextView android:layout_width="-2" android:layout_height="-2" android:text="Loading..." />
+    </LinearLayout>
+    <RelativeLayout android:id="0x7f0d00e2" android:background="0x1060018" android:layout_width="-1" android:layout_height="200dp">
+        <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:textColor="0x7f0c0076" android:paddingLeft="10dp" android:layout_width="-2" android:layout_height="-2" android:text="Water sources near you!
+Click To locate them on a map" android:layout_toLeftOf="0x7f0d00e3" android:layout_centerVertical="true" android:fontFamily="sans-serif-light" />
+        <ImageView android:id="0x7f0d00e3" android:layout_width="100dp" android:layout_height="100dp" android:layout_marginRight="48dp" android:src="0x7f0200a5" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <android.support.v7.widget.RecyclerView app:name="fyp.teejay.apollo.fyp1.MarkerFragment" app:id="0x7f0d0092" app:paddingTop="210dp" app:layout_width="-1" app:layout_height="-1" app:layout_below="0x7f0d00e2" app:layoutManager="LinearLayoutManager" />
+</FrameLayout>

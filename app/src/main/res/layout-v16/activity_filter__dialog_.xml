@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="0x7f0d0090" android:paddingLeft="0x7f09001a" android:paddingTop="0x7f09004d" android:paddingRight="0x7f09001a" android:paddingBottom="0x7f09004d" android:layout_width="-1" android:layout_height="-2">
+    <TextView android:textAppearance="?unknown_attr_ref: 1010040" android:id="0x7f0d0091" android:layout_width="-2" android:layout_height="-2" android:text="Select Your Water Source" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" android:fontFamily="sans-serif-light" />
+    <RelativeLayout android:layout_width="-1" android:layout_height="-1" android:layout_marginTop="32dp" android:layout_below="0x7f0d0091" android:layout_alignParentLeft="true">
+        <ListView android:id="0x7f0d0092" android:background="0x7f02004c" android:padding="20dp" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    </RelativeLayout>
+</RelativeLayout>

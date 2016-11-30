@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="0x7f0d011c" android:background="0x106000c" android:visibility="2" android:layout_width="-1" android:layout_height="-1" android:animateLayoutChanges="true" android:alpha="0.8">
+    <RelativeLayout android:layout_width="-1" android:layout_height="-1">
+        <ProgressBar android:layout_gravity="11" android:id="0x7f0d011d" android:layout_width="-2" android:layout_height="-2" android:indeterminate="true" android:layout_centerHorizontal="true" android:layout_centerVertical="true" style="?unknown_attr_ref: 101007a" />
+        <TextView android:textColor="0x7f0c0076" android:layout_gravity="11" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="31dp" android:text="Please wait this may take about 10 seconds..." android:layout_below="0x7f0d011d" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</FrameLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item android:state_window_focused="false" android:state_enabled="false" android:color="0x7f0c006c" />
+    <item android:state_window_focused="false" android:color="0x7f0c006d" />
+    <item android:state_enabled="false" android:state_selected="true" android:color="0x7f0c006c" />
+    <item android:state_enabled="false" android:state_pressed="true" android:color="0x7f0c006c" />
+    <item android:state_selected="true" android:color="0x7f0c006d" />
+    <item android:state_pressed="true" android:color="0x7f0c006d" />
+    <item android:state_enabled="false" android:color="0x7f0c006c" />
+    <item android:color="0x7f0c006d" />
+</selector>

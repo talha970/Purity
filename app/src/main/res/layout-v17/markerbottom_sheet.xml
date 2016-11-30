@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout app:id="0x7f0d00f4" app:background="#ffffff" app:padding="0x7f09004d" app:layout_width="-1" app:layout_height="-1" app:behavior_peekHeight="190dp" app:behavior_hideable="false" app:layout_behavior="0x7f070047">
+    <TextView app:textAppearance="@*app:style/TextAppearance.Medium" app:textStyle="1" app:id="0x7f0d00ef" app:layout_width="-2" app:layout_height="-2" app:text="Marker Name" app:layout_alignParentTop="true" app:layout_centerHorizontal="true" />
+    <fyp.teejay.apollo.fyp1.CircleDisplay app:id="0x7f0d00cd" app:layout_width="100dp" app:layout_height="100dp" app:layout_below="0x7f0d00f3" app:layout_alignParentLeft="true" app:layout_alignParentStart="true" />
+    <com.github.mikephil.charting.charts.LineChart app:id="0x7f0d00cb" app:layout_width="-1" app:layout_height="200dp" app:layout_below="0x7f0d00cd" />
+    <TextView app:textAppearance="@*app:style/TextAppearance.Medium" app:id="0x7f0d00f3" app:layout_width="-2" app:layout_height="-2" app:text="City" app:layout_below="0x7f0d00ef" app:layout_centerHorizontal="true" />
+    <TextView app:textAppearance="?unknown_attr_ref: 1010042" app:id="0x7f0d00f5" app:layout_width="-2" app:layout_height="-2" app:layout_marginTop="24dp" app:text="Small Text" app:layout_below="0x7f0d00f3" app:layout_centerHorizontal="true" />
+    <ListView app:id="0x7f0d00f6" app:layout_width="-2" app:layout_height="-1" app:layout_marginTop="22dp" app:layout_below="0x7f0d00cb" app:layout_alignParentLeft="true" app:layout_alignParentStart="true" />
+</RelativeLayout>

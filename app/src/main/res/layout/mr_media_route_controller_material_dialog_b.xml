@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="-1" android:layout_height="-2">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2"
+        <LinearLayout android:orientation="0" android:id="0x7f0d00f8" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:textColor="?unknown_attr_ref: 1010036" android:ellipsize="3" android:gravity="10" android:id="0x7f0d00f9" android:layout_width="0dp" android:layout_height="72dp" android:layout_marginLeft="24dp" android:layout_marginRight="24dp" android:singleLine="true" android:layout_weight="1.0" />
+            <ImageButton android:id="0x7f0d00fa" android:background="?unknown_attr_ref: 7f010067" android:padding="12dp" android:visibility="2" android:layout_width="48dp" android:layout_height="48dp" android:layout_marginTop="12dp" android:layout_marginRight="12dp" android:layout_marginBottom="12dp" android:src="?unknown_attr_ref: 7f01000a" android:contentDescription="0x7f070037" />
+        </LinearLayout>
+        <FrameLayout android:id="0x7f0d00fb" android:layout_width="-1" android:layout_height="-2">
+            <RelativeLayout android:id="0x7f0d00fc" android:background="?unknown_attr_ref: 7f010084" android:layout_width="-1" android:layout_height="-2">
+                <ImageView android:id="0x7f0d00fd" android:layout_width="-1" android:layout_height="-2" android:scaleType="6" android:adjustViewBounds="true" android:maxHeight="0x7f090018" />
+                <ImageButton android:id="0x7f0d00fe" android:background="?unknown_attr_ref: 7f010067" android:padding="12dp" android:layout_width="48dp" android:layout_height="48dp" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:layout_below="0x7f0d00fd" android:layout_alignParentRight="true" android:contentDescription="0x7f070036" />
+                <LinearLayout android:gravity="10" android:orientation="1" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="24dp" android:minHeight="64dp" android:layout_toLeftOf="0x7f0d00fe" android:layout_below="0x7f0d00fd" android:layout_alignParentLeft="true">
+                    <TextView android:textAppearance="?unknown_attr_ref: 1010042" android:textSize="16sp" android:textStyle="1" android:textColor="?unknown_attr_ref: 1010036" android:id="0x7f0d006a" android:layout_width="-2" android:layout_height="-2" android:singleLine="true" />
+                    <TextView android:textAppearance="?unknown_attr_ref: 1010042" android:textSize="14sp" android:textColor="?unknown_attr_ref: 1010036" android:id="0x7f0d00ff" android:layout_width="-2" android:layout_height="-2" android:singleLine="true" />
+                </LinearLayout>
+            </RelativeLayout>
+        </FrameLayout>
+        <LinearLayout android:gravity="10" android:id="0x7f0d0100" android:padding="8dp" android:visibility="2" android:layout_width="-1" android:layout_height="64dp">
+            <ImageView android:gravity="11" android:layout_width="48dp" android:layout_height="48dp" android:src="?unknown_attr_ref: 7f010004" android:scaleType="5" />
+            <SeekBar android:id="0x7f0d0101" android:layout_width="0dp" android:layout_height="-2" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:id="0x7f0d0102" android:layout_width="-1" android:layout_height="-2">
+            <Button android:gravity="11" android:id="0x7f0d0103" android:background="?unknown_attr_ref: 7f010067" android:visibility="2" android:layout_width="0dp" android:layout_height="48dp" android:text="0x7f070033" android:layout_weight="1.0" />
+            <Button android:textColor="?unknown_attr_ref: 7f010086" android:gravity="11" android:id="0x7f0d0104" android:background="?unknown_attr_ref: 7f010067" android:layout_width="0dp" android:layout_height="48dp" android:text="0x7f070038" android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

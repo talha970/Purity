@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout app:id="0x7f0d009c" app:fitsSystemWindows="true" app:layout_width="-1" app:layout_height="-1">
+    <include app:layout_width="-1" app:layout_height="-1" layout="0x7f040022" />
+    <android.support.design.widget.NavigationView app:layout_gravity="800003" app:id="0x7f0d009d" app:fitsSystemWindows="true" app:layout_width="-2" app:layout_height="-1" app:menu="0x7f0e0000" app:headerLayout="0x7f040044" />
+</android.support.v4.widget.DrawerLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:insetLeft="0x7f090035" android:insetRight="0x7f090035" android:insetTop="0x7f090036" android:insetBottom="0x7f090034">
+    <selector>
+        <item android:state_enabled="false" android:drawable="0x7f020047" />
+        <item android:state_focused="false" android:state_pressed="false" android:drawable="0x7f020047" />
+        <item android:drawable="0x7f020046" />
+    </selector>
+</inset>

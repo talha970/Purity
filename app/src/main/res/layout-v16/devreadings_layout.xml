@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="0x7f0d00ca" android:visibility="2" android:layout_width="-1" android:layout_height="-1">
+    <ScrollView android:layout_width="-1" android:layout_height="-1">
+        <LinearLayout android:orientation="1" android:padding="10dp" android:layout_width="-1" android:layout_height="-1">
+            <RelativeLayout android:id="0x7f0d0090" android:background="0x7f02004c" android:layout_width="-1" android:layout_height="-1">
+                <com.github.mikephil.charting.charts.BarChart android:id="0x7f0d00cb" android:layout_width="-1" android:layout_height="200dp" android:layout_marginTop="44dp" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+                <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:id="0x7f0d00cc" android:paddingTop="5dp" android:layout_width="-2" android:layout_height="-2" android:text="What you have been Drinking lately?" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" android:fontFamily="sans-serif-light" />
+            </RelativeLayout>
+            <RelativeLayout android:background="0x7f02004c" android:paddingBottom="15dp" android:layout_width="-1" android:layout_height="-1">
+                <LinearLayout android:orientation="0" android:id="0x7f0d00ce" android:paddingTop="20dp" android:layout_width="-1" android:layout_height="-2" android:layout_below="0x7f0d00cd" android:layout_alignParentRight="true">
+                    <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:gravity="11" android:layout_width="0dp" android:layout_height="-2" android:text="Ph" android:layout_weight="1.0" android:fontFamily="sans-serif-light" />
+                    <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:gravity="11" android:layout_width="0dp" android:layout_height="-2" android:text="Turbudity" android:layout_weight="1.0" android:fontFamily="sans-serif-light" />
+                    <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:gravity="11" android:layout_width="0dp" android:layout_height="-2" android:text="Temp" android:layout_weight="1.0" android:fontFamily="sans-serif-light" />
+                </LinearLayout>
+                <LinearLayout android:orientation="0" android:id="0x7f0d00cf" android:paddingTop="20dp" android:layout_width="-1" android:layout_height="-2" android:layout_below="0x7f0d00ce" android:layout_alignParentRight="true">
+                    <TextView android:textAppearance="?unknown_attr_ref: 1010040" android:textStyle="1" android:gravity="11" android:id="0x7f0d00d0" android:layout_width="0dp" android:layout_height="-2" android:text="7.0" android:layout_weight="1.0" android:fontFamily="sans-serif-light" />
+                    <TextView android:textAppearance="?unknown_attr_ref: 1010040" android:textStyle="1" android:textColor="0x7f0c0017" android:gravity="11" android:id="0x7f0d00d1" android:layout_width="0dp" android:layout_height="-2" android:text="37" android:layout_weight="1.0" android:fontFamily="sans-serif-light" />
+                    <TextView android:textAppearance="?unknown_attr_ref: 1010040" android:textStyle="1" android:textColor="0x7f0c0017" android:gravity="11" android:id="0x7f0d00d2" android:layout_width="0dp" android:layout_height="-2" android:text="30" android:layout_weight="1.0" android:fontFamily="sans-serif-light" />
+                </LinearLayout>
+                <fyp.teejay.apollo.fyp1.CircleDisplay android:id="0x7f0d00cd" android:layout_width="100dp" android:layout_height="100dp" android:layout_below="0x7f0d00d3" android:layout_centerHorizontal="true" />
+                <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:textStyle="1" android:id="0x7f0d00d3" android:paddingBottom="10dp" android:layout_width="-2" android:layout_height="-2" android:text="Most Recent" android:layout_alignRight="0x7f0d00cd" />
+                <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:textColor="0x7f0c0017" android:layout_gravity="11" android:id="0x7f0d00d4" android:paddingTop="30dp" android:layout_width="-2" android:layout_height="-2" android:text="New Text" android:layout_below="0x7f0d00cf" android:layout_centerHorizontal="true" android:fontFamily="sans-serif-light" />
+                <TextView android:textAppearance="?unknown_attr_ref: 1010040" android:textColor="0x7f0c0017" android:layout_gravity="11" android:id="0x7f0d00d5" android:paddingTop="10dp" android:layout_width="-2" android:layout_height="-2" android:text="New Text" android:layout_below="0x7f0d00d4" android:layout_centerHorizontal="true" android:fontFamily="sans-serif-light" />
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+    <android.support.design.widget.FloatingActionButton android:layout_gravity="800055" android:id="0x7f0d00d6" android:layout_width="-2" android:layout_height="-2" android:layout_margin="0x7f090068" android:src="0x7f02007e" />
+</FrameLayout>

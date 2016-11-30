@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:paddingTop="2dp" android:paddingRight="8dp" android:paddingBottom="2dp" android:layout_width="-2" android:layout_height="-2"
+    <LinearLayout android:orientation="0" android:id="0x7f0d010c" android:paddingTop="6dp" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="8dp">
+        <TextView android:textAppearance="0x7f0a0029" android:ellipsize="4" android:id="0x7f0d006a" android:fadingEdge="1000" android:layout_width="-1" android:layout_height="-2" android:singleLine="true" android:layout_weight="1.0" />
+        <include android:layout_gravity="11" android:id="0x7f0d010d" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_weight="0.0" layout="0x7f04004c" />
+        <include android:layout_gravity="11" android:id="0x7f0d010e" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_weight="0.0" layout="0x7f04004b" />
+    </LinearLayout>
+    <TextView android:textAppearance="0x7f0a0027" android:ellipsize="4" android:id="0x7f0d010f" android:visibility="2" android:fadingEdge="1000" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="8dp" android:layout_marginTop="-2dp" android:layout_marginBottom="-2dp" android:singleLine="true" />
+    <LinearLayout android:gravity="10" android:orientation="0" android:id="0x7f0d0110" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="8dp">
+        <TextView android:textAppearance="0x7f0a0025" android:ellipsize="4" android:layout_gravity="11" android:id="0x7f0d0111" android:fadingEdge="1000" android:layout_width="0dp" android:layout_height="-2" android:singleLine="true" android:layout_weight="1.0" />
+        <TextView android:textAppearance="0x7f0a0026" android:gravity="11" android:layout_gravity="11" android:id="0x7f0d0112" android:paddingLeft="8dp" android:layout_width="-2" android:layout_height="-2" android:singleLine="true" android:layout_weight="0.0" />
+    </LinearLayout>
+</LinearLayout>

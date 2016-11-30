@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:id="0x7f0d00de" android:background="#5c6bc0" android:layout_width="-1" android:layout_height="-1" android:layout_weight="10.0">
+    <TextView android:textSize="28sp" android:textColor="#ffffff" android:gravity="11" android:layout_gravity="11" android:paddingLeft="32dp" android:paddingRight="32dp" android:layout_width="-2" android:layout_height="0dp" android:text="Connect your Device" android:layout_weight="3.0" android:fontFamily="sans-serif-thin" />
+    <LinearLayout android:gravity="11" android:orientation="1" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="5.0">
+        <ImageView android:layout_gravity="11" android:paddingLeft="16dp" android:paddingRight="16dp" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020052" />
+        <ListView android:id="0x7f0d00e4" android:layout_width="-1" android:layout_height="-1" />
+    </LinearLayout>
+    <TextView android:textSize="16sp" android:textColor="#ffffff" android:gravity="11" android:layout_gravity="11" android:paddingLeft="64dp" android:paddingRight="64dp" android:layout_width="-2" android:layout_height="0dp" android:text="Please select your device to pair" android:layout_weight="3.0" />
+    <TextView android:layout_width="-1" android:layout_height="64dp" />
+</LinearLayout>

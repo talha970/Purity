@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#03a9f4" android:paddingTop="0x7f09004d" android:layout_width="-1" android:layout_height="-1">
+    <TextView android:textSize="40dp" android:textColor="0x106000b" android:id="0x7f0d0126" android:paddingLeft="0x7f09001a" android:paddingRight="0x7f09001a" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="145dp" android:text="Welcome to Purify" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <TextView android:textSize="40dp" android:textColor="#81d4f9" android:id="0x7f0d0127" android:paddingLeft="0x7f09001a" android:paddingRight="0x7f09001a" android:layout_width="-2" android:layout_height="-2" android:text="Your Personal Water Purity Tracker" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    <LinearLayout android:id="0x7f0d0095" android:background="#52c4f7" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentBottom="true">
+        <Button android:textStyle="1" android:textColor="0x106000b" android:id="0x7f0d0128" android:background="0x0" android:layout_width="-2" android:layout_height="-2" android:text="Login" android:layout_weight="1.0" android:onClick="login_activity" />
+        <Button android:textStyle="1" android:textColor="0x106000b" android:id="0x7f0d0129" android:background="0x0" android:layout_width="-2" android:layout_height="-2" android:text="Join Purify" android:layout_weight="1.0" android:onClick="register_activity" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <group android:checkableBehavior="2">
+        <item android:icon="0x7f020091" android:id="0x7f0d012c" android:title="Home" />
+        <item android:icon="0x7f020092" android:id="0x7f0d012d" android:visible="true" android:title="Log in" />
+    </group>
+    <item android:title="Misc">
+        <menu>
+            <item android:icon="0x7f020095" android:id="0x7f0d012e" android:title="Share" />
+            <item android:icon="0x7f020094" android:id="0x7f0d012f" android:title="Send" />
+            <item android:icon="0x7f0200a4" android:id="0x7f0d0130" android:title="Log out" />
+        </menu> />
+</menu>

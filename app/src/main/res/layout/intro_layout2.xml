@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#222222" android:layout_width="-1" android:layout_height="-2">
+    <FrameLayout android:id="0x7f0d00eb" android:layout_width="-1" android:layout_height="-1" />
+    <com.github.paolorotolo.appintro.AppIntroViewPager android:id="0x7f0d00e5" android:layout_width="-1" android:layout_height="-2" />
+    <LinearLayout android:gravity="50" android:orientation="1" android:id="0x7f0d001e" android:background="#00000000" android:layout_width="-1" android:layout_height="80dp" android:layout_alignParentBottom="true">
+        <TextView android:id="0x7f0d00e6" android:background="#55000000" android:visibility="2" android:layout_width="-1" android:layout_height="1px" />
+        <FrameLayout android:background="#00000000" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="16dp"
+            <FrameLayout android:layout_gravity="11" android:id="0x7f0d00e7" android:layout_width="-2" android:layout_height="-1" />
+            <ImageButton android:layout_gravity="5" android:id="0x7f0d00e9" android:background="?unknown_attr_ref: 7f010067" android:layout_width="-2" android:layout_height="-1" android:layout_marginRight="16dp" android:src="0x7f02007f" />
+            <ImageButton android:layout_gravity="5" android:id="0x7f0d00ea" android:background="?unknown_attr_ref: 7f010067" android:visibility="2" android:layout_width="-2" android:layout_height="-1" android:layout_marginRight="16dp" android:src="0x7f020088" />
+        </FrameLayout>
+    </LinearLayout>
+</RelativeLayout>

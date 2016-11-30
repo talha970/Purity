@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="0x7f0d00bf" android:layout_width="-1" android:layout_height="-1">
+    <FrameLayout android:id="0x7f0d00c0" android:visibility="2" android:layout_width="-1" android:layout_height="-1">
+        <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1" android:layout_marginTop="80dp">
+            <ImageView android:layout_gravity="1" android:id="0x7f0d00c1" android:layout_width="50dp" android:layout_height="50dp" android:src="0x1080068" />
+            <TextView android:textAppearance="?unknown_attr_ref: 1010040" android:layout_gravity="1" android:id="0x7f0d00c2" android:layout_width="-2" android:layout_height="-2" android:text="Oh Snap!" />
+            <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:layout_gravity="1" android:id="0x7f0d00c3" android:layout_width="-2" android:layout_height="-2" android:text="Please try logging in first" />
+            <Button android:layout_gravity="1" android:id="0x7f0d00c4" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="20dp" android:text="Log in" />
+        </LinearLayout>
+    </FrameLayout>
+    <FrameLayout android:id="0x7f0d00c5" android:visibility="2" android:layout_width="-1" android:layout_height="-1">
+        <RelativeLayout android:layout_width="-1" android:layout_height="-1"
+            <RelativeLayout android:id="0x7f0d00c6" android:layout_width="-2" android:layout_height="-2" />
+            <Button android:textColor="0x106000b" android:id="0x7f0d00c7" android:background="0x1060013" android:layout_width="100dp" android:layout_height="-2" android:text="Get Started" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+            <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:id="0x7f0d00c8" android:layout_width="-2" android:layout_height="-2" android:layout_marginBottom="102dp" android:text="Click below to Configure your device " android:layout_above="0x7f0d00c7" android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+    </FrameLayout>
+    <include layout="0x7f040034" />
+    <LinearLayout android:gravity="11" android:orientation="1" android:id="0x7f0d00b2" android:visibility="2" android:layout_width="-1" android:layout_height="-1">
+        <ProgressBar android:id="0x7f0d00c9" android:layout_width="-2" android:layout_height="-2" style="?unknown_attr_ref: 1010077" />
+        <TextView android:layout_width="-2" android:layout_height="-2" android:text="Loading..." />
+    </LinearLayout>
+</RelativeLayout>

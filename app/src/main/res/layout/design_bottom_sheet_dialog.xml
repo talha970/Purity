@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout app:layout_width="-1" app:layout_height="-1" app:soundEffectsEnabled="false">
+    <FrameLayout app:layout_gravity="1" app:id="0x7f0d00b7" app:layout_width="-1" app:layout_height="-2" app:layout_behavior="0x7f070047" style="?unknown_attr_ref: 7f0100c9" />
+</android.support.design.widget.CoordinatorLayout>

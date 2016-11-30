@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout app:fitsSystemWindows="true" app:layout_width="-1" app:layout_height="-1">
+    <android.support.design.widget.AppBarLayout app:theme="0x7f0a008f" app:layout_width="-1" app:layout_height="-2" />
+    <include layout="0x7f040024" />
+    <include layout="0x7f040052" />
+</android.support.design.widget.CoordinatorLayout>

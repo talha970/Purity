@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="0" android:paddingTop="3dp" android:paddingBottom="3dp" android:layout_width="-1" android:layout_height="-1">
+    <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:id="0x7f0d011e" android:layout_width="-2" android:layout_height="-2" android:text="PH :" android:layout_below="0x7f0d011f" />
+    <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:id="0x7f0d0120" android:layout_width="-2" android:layout_height="-2" android:text="Conductivity :" android:layout_below="0x7f0d011e" />
+    <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:id="0x7f0d0121" android:layout_width="-2" android:layout_height="-2" android:text="Turbidity :" android:layout_below="0x7f0d0120" />
+    <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:id="0x7f0d011f" android:layout_width="-2" android:layout_height="-2" android:text="Date :" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:id="0x7f0d0122" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="44dp" android:text="98798798798798" android:layout_alignLeft="0x7f0d0123" android:layout_alignBottom="0x7f0d011f" android:layout_alignParentRight="true" />
+    <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:id="0x7f0d0124" android:layout_width="-2" android:layout_height="-2" android:text="ph" android:layout_above="0x7f0d0120" android:layout_alignLeft="0x7f0d0122" />
+    <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:id="0x7f0d0123" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="58dp" android:text="Cond" android:layout_toRightOf="0x7f0d0120" android:layout_above="0x7f0d0125" />
+    <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:id="0x7f0d0125" android:layout_width="-2" android:layout_height="-2" android:text="Turb" android:layout_alignLeft="0x7f0d0123" android:layout_alignBottom="0x7f0d0121" />
+</RelativeLayout>

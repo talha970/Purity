@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="1" android:orientation="1" android:background="0x106000b" android:paddingTop="0x7f09004d" android:layout_width="-1" android:layout_height="-1">
+    <ProgressBar android:id="0x7f0d0093" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginBottom="8dp" android:layout_centerInParent="true" style="?unknown_attr_ref: 101007a" />
+    <ScrollView android:id="0x7f0d0094" android:layout_width="-1" android:layout_height="-1" android:fillViewport="false" />
+    <RelativeLayout android:id="0x7f0d0095" android:background="0x7f0c001d" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" android:layout_alignParentStart="true">
+        <Button android:textStyle="1" android:textColor="0x106000b" android:id="0x7f0d0096" android:background="0x0" android:layout_width="132dp" android:layout_height="-2" android:text="0x7f070041" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:layout_alignParentEnd="true" style="?unknown_attr_ref: 1010041" />
+    </RelativeLayout>
+    <RelativeLayout android:orientation="1" android:id="0x7f0d0097" android:paddingTop="10dp" android:layout_width="-1" android:layout_height="-1" android:layout_marginTop="52dp" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentStart="true">
+        <TextView android:textSize="30dp" android:id="0x7f0d0098" android:paddingLeft="0x7f09001a" android:paddingRight="0x7f09001a" android:layout_width="-2" android:layout_height="-2" android:text="Welcome Back" android:fontFamily="sans-serif-light" />
+        <AutoCompleteTextView android:id="0x7f0d0099" android:paddingLeft="0x7f09001a" android:paddingTop="30dp" android:paddingRight="0x7f09001a" android:layout_width="-1" android:layout_height="-2" android:hint="0x7f070064" android:maxLines="1" android:singleLine="true" android:layout_below="0x7f0d0098" android:layout_alignParentLeft="true" android:inputType="21" android:layout_alignParentStart="true" />
+        <EditText android:id="0x7f0d009a" android:paddingLeft="0x7f09001a" android:paddingRight="0x7f09001a" android:layout_width="-1" android:layout_height="-2" android:hint="0x7f070065" android:maxLines="1" android:singleLine="true" android:layout_below="0x7f0d0099" android:layout_alignParentLeft="true" android:inputType="81" android:imeOptions="0" android:imeActionLabel="0x7f070042" android:imeActionId="0x7f0d009b" android:layout_alignParentStart="true" />
+    </RelativeLayout>
+</RelativeLayout>

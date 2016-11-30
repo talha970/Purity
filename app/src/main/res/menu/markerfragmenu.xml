@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <item app:title="Filter" app:showAsAction="2">
+        <menu>
+            <group app:checkableBehavior="2">
+                <item app:id="0x7f0d0132" app:title="Purity" />
+                <item app:id="0x7f0d0133" app:title="Distance" />
+            </group>
+        </menu> />
+</menu>

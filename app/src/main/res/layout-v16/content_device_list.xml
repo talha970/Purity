@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout app:gravity="1" app:orientation="1" app:paddingLeft="0x7f09001a" app:paddingTop="0x7f09004d" app:paddingRight="0x7f09001a" app:paddingBottom="0x7f09004d" app:layout_width="-1" app:layout_height="-1" app:layout_behavior="0x7f070044">
+    <ImageView app:layout_gravity="11" app:id="0x7f0d00a5" app:layout_width="80dp" app:layout_height="80dp" app:layout_marginTop="20dp" app:src="0x7f02004b" />
+    <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:textColor="#fff" app:id="0x7f0d00a6" app:padding="15dp" app:layout_width="-2" app:layout_height="-2" app:text="Please Select Your Device" app:fontFamily="sans-serif-light" />
+    <ListView app:textColor="#fff" app:id="0x7f0d00a7" app:paddingTop="15dp" app:layout_width="-1" app:layout_height="-2" app:stackFromBottom="false" app:layout_weight="1.0" />
+    <Button app:textSize="10dp" app:textColor="0x7f0c0076" app:id="0x7f0d00a8" app:background="0x0" app:layout_width="-2" app:layout_height="-2" app:text="Can't find your device?" app:onClick="devintro" style="?unknown_attr_ref: 1010049" />
+    <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:textColor="#fff" app:id="0x7f0d00a9" app:layout_width="-2" app:layout_height="-2" />
+    <LinearLayout app:gravity="11" app:layout_width="-1" app:layout_height="-2" /> />

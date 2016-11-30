@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout app:id="0x7f0d00aa" app:background="0x7f0c001c" app:layout_width="-1" app:layout_height="-1">
+    <fyp.teejay.apollo.fyp1.CircleDisplay app:id="0x7f0d00ab" app:layout_width="180dp" app:layout_height="180dp" app:layout_marginTop="50dp" app:layout_alignParentTop="true" app:layout_centerHorizontal="true" />
+    <LinearLayout app:orientation="0" app:id="0x7f0d00ad" app:layout_width="-1" app:layout_height="100dp" app:layout_marginTop="25dp" app:layout_below="0x7f0d00ac">
+        <fyp.teejay.apollo.fyp1.CircleDisplay app:id="0x7f0d00ae" app:layout_width="0dp" app:layout_height="100dp" app:layout_weight="1.0" />
+        <fyp.teejay.apollo.fyp1.CircleDisplay app:id="0x7f0d00af" app:layout_width="0dp" app:layout_height="100dp" app:layout_weight="1.0" />
+        <fyp.teejay.apollo.fyp1.CircleDisplay app:id="0x7f0d00b0" app:layout_width="0dp" app:layout_height="100dp" app:layout_weight="1.0" />
+    </LinearLayout>
+    <TextView app:textSize="25dp" app:textColor="0x7f0c0076" app:id="0x7f0d00b1" app:layout_width="-2" app:layout_height="-2" app:layout_marginTop="10dp" app:text="Your Water Reading" app:layout_below="0x7f0d00b2" app:layout_centerHorizontal="true" app:fontFamily="sans-serif-light" />
+    <TextView app:textAppearance="?unknown_attr_ref: 1010041" app:textColor="0x7f0c0076" app:id="0x7f0d00ac" app:layout_width="-2" app:layout_height="-2" app:layout_marginTop="18dp" app:text="Water Purity" app:layout_below="0x7f0d00ab" app:layout_centerHorizontal="true" />
+    <TextView app:textColor="0x7f0c0076" app:id="0x7f0d00b3" app:layout_width="100dp" app:layout_height="-2" app:text="PH value" app:layout_toLeftOf="0x7f0d00b5" app:layout_alignTop="0x7f0d00b4" />
+    <TextView app:textColor="0x7f0c0076" app:gravity="11" app:id="0x7f0d00b5" app:layout_width="100dp" app:layout_height="-2" app:text="Turbudity" app:layout_alignTop="0x7f0d00b3" app:layout_centerHorizontal="true" />
+    <TextView app:textColor="0x7f0c0076" app:id="0x7f0d00b4" app:layout_width="100dp" app:layout_height="-2" app:layout_marginTop="10dp" app:text="Temperature" app:layout_below="0x7f0d00ad" app:layout_alignRight="0x7f0d00ad" />
+    <Button app:textColor="0x7f0c0076" app:id="0x7f0d00b6" app:background="#81d4f9" app:visibility="0" app:layout_width="-1" app:layout_height="-2" app:layout_marginTop="29dp" app:text="Next" app:layout_below="0x7f0d00b3" app:layout_alignParentLeft="true" app:onClick="readtocloud" />
+</RelativeLayout>

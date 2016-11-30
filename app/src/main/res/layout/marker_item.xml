@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout card_view:orientation="1" card_view:layout_width="-1" card_view:layout_height="-2">
+    <android.support.v7.widget.CardView card_view:layout_gravity="11" card_view:id="0x7f0d00d7" card_view:layout_width="-1" card_view:layout_height="100dp" card_view:layout_margin="5dp" card_view:cardCornerRadius="2dp" card_view:contentPadding="10dp">
+        <RelativeLayout card_view:layout_width="-1" card_view:layout_height="-1">
+            <TextView card_view:textAppearance="@*card_view:style/TextAppearance.Material.Large" card_view:textStyle="1" card_view:id="0x7f0d00ef" card_view:layout_width="-2" card_view:layout_height="-2" card_view:text="Name of the marker" card_view:layout_alignParentTop="true" />
+            <fyp.teejay.apollo.fyp1.CircleDisplay card_view:id="0x7f0d00cd" card_view:layout_width="75dp" card_view:layout_height="75dp" card_view:layout_marginLeft="21dp" card_view:layout_alignLeft="0x7f0d00f2" card_view:layout_alignBottom="0x7f0d00f1" />
+            <TextView card_view:textAppearance="@*card_view:style/TextAppearance.Material.Medium" card_view:id="0x7f0d00f1" card_view:layout_width="-1" card_view:layout_height="-2" card_view:text="Address of the marker" card_view:layout_below="0x7f0d00ef" />
+            <TextView card_view:textAppearance="?unknown_attr_ref: 1010042" card_view:textColor="0x7f0c001c" card_view:id="0x7f0d00f2" card_view:layout_width="-2" card_view:layout_height="-2" card_view:text="15 Km away" card_view:layout_alignParentRight="true" card_view:layout_alignParentBottom="true" />
+            <TextView card_view:textAppearance="?unknown_attr_ref: 1010041" card_view:id="0x7f0d00f3" card_view:layout_width="-2" card_view:layout_height="-2" card_view:text="Islamabad" card_view:layout_below="0x7f0d00f1" card_view:layout_alignParentLeft="true" />
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

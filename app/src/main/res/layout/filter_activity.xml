@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout card_view:orientation="1" card_view:layout_width="-1" card_view:layout_height="-1">
+    <android.support.v7.widget.CardView card_view:layout_gravity="11" card_view:id="0x7f0d00d7" card_view:layout_width="-1" card_view:layout_height="100dp" card_view:layout_margin="5dp" card_view:cardCornerRadius="2dp" card_view:contentPadding="10dp">
+        <RelativeLayout card_view:layout_width="-1" card_view:layout_height="-1">
+            <TextView card_view:textStyle="1" card_view:id="0x7f0d00d8" card_view:layout_width="-2" card_view:layout_height="-2" card_view:text="Distance" card_view:layout_alignParentTop="true" />
+            <SeekBar card_view:id="0x7f0d00d9" card_view:layout_width="-1" card_view:layout_height="-2" card_view:layout_marginTop="10dp" card_view:layout_below="0x7f0d00d8" />
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView card_view:layout_gravity="11" card_view:id="0x7f0d00da" card_view:layout_width="-1" card_view:layout_height="100dp" card_view:layout_margin="5dp" card_view:cardCornerRadius="2dp" card_view:contentPadding="10dp">
+        <RelativeLayout card_view:layout_width="-1" card_view:layout_height="-1">
+            <TextView card_view:textStyle="1" card_view:id="0x7f0d00db" card_view:layout_width="-2" card_view:layout_height="-2" card_view:text="Purity" card_view:layout_alignParentTop="true" />
+            <ToggleButton card_view:id="0x7f0d00dc" card_view:layout_width="-2" card_view:layout_height="-2" card_view:layout_marginTop="10dp" card_view:checked="false" card_view:text="g" card_view:layout_below="0x7f0d00db" card_view:layout_centerHorizontal="true" />
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+    <Button card_view:textColor="0x106000b" card_view:id="0x7f0d00dd" card_view:background="0x1060013" card_view:layout_width="-1" card_view:layout_height="-2" card_view:layout_marginTop="10dp" card_view:text="Apply" />
+</LinearLayout>
